@@ -1,0 +1,19 @@
+<Project>
+  <PropertyGroup>
+    <Authors>964</Authors>
+    <Company>964</Company>
+    <Copyright>Copyright (c) 2026 964</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/964/964s-csharp-game-development-toolkit</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/964/964s-csharp-game-development-toolkit</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>gamedev;toolkit;csharp;unity;modules</PackageTags>
+    <Version>0.1.0</Version>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+  </PropertyGroup>
+</Project>

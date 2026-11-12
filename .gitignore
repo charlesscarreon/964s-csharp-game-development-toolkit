@@ -1,0 +1,49 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+
+## Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures can get annoying worse to ignore
+[Mm]emoryCaptures/
+
+# Recordings can get annoying worse to ignore
+[Rr]ecordings/
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Packed Addressables
+[Pp]ackingCodeGenFiles/
+
+## Rider
+.idea/
+*.sln.iml
+
+## macOS
+.DS_Store
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Other
+*.swp
+*~
+.env
+.env.local

@@ -1,0 +1,20 @@
+{
+  "name": "com.964.gamedevelopmenttoolkit",
+  "version": "0.1.0",
+  "displayName": "964's C# Game Development Toolkit",
+  "description": "A collection of reusable, engine-agnostic C# game modules designed to reduce repetitive implementation work.",
+  "unity": "2019.4",
+  "documentationUrl": "https://github.com/964/964s-csharp-game-development-toolkit",
+  "changelogUrl": "https://github.com/964/964s-csharp-game-development-toolkit/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/964/964s-csharp-game-development-toolkit/blob/main/LICENSE",
+  "keywords": [
+    "gamedev",
+    "toolkit",
+    "modules",
+    "utility"
+  ],
+  "author": {
+    "name": "964",
+    "url": "https://github.com/964"
+  }
+}
